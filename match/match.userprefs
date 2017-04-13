@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="match.csproj" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Element.cs">
+    <Files>
+      <File FileName="Element.cs" Line="320" Column="1" />
+      <File FileName="Game1.cs" Line="106" Column="13" />
+      <File FileName="GameProcess.cs" Line="17" Column="1" />
+      <File FileName="Boulder.cs" Line="7" Column="56" />
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="OpenTK.dll.config" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="match" expanded="True">
+            <Node name="match" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Element.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>GameProcess.ListElements</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
