@@ -1,0 +1,17 @@
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Game1.cs
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\match.pcl.dll
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\match.pcl.pdb
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\MonoGame.Framework.dll
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\MonoGame.Framework.xml
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\match3_new\match3\match.pcl\obj\Debug\match.pcl.dll
+D:\Projects\match3_new\match3\match.pcl\obj\Debug\match.pcl.pdb
+D:\Projects\match3_new\match3\match.pcl\obj\Debug\match.pcl.dll.mdb
+D:\Projects\match3_new\match3\match.pcl\bin\Debug\match.pcl.dll.mdb
